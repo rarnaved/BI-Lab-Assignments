@@ -7,4 +7,4 @@ A central fact table connected to dimension tables.
 Normalized dimension tables with more branches.
 
 ## Diagram:
-![Schema Diagram](./schemas.jpg)
+![Schema Diagram](./schema.jpg)
